@@ -1,10 +1,17 @@
-# Install
+# GreenOnion
+
+### Dependencies
 
 ```
 libssl-dev
 opencl-headers
 ocl-icd-libopencl1
 ocl-icd-opencl-dev
+```
+
+Run: 
+```
+sudo apt install ocl-icd-opencl-dev ocl-icd-libopencl1 opencl-headers libssl-dev
 ```
 
 # Nvidia
