@@ -14,11 +14,7 @@ Run:
 sudo apt install ocl-icd-opencl-dev ocl-icd-libopencl1 opencl-headers libssl-dev
 ```
 
+## OpenCL/CUDA
+
 # Nvidia
 https://askubuntu.com/questions/541114/how-to-make-opencl-work-on-14-10-nvidia-331-89-drivers
-
-# AMD
-TODO
-
-# Intel
-TODO
