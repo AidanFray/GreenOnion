@@ -12,6 +12,7 @@ ocl-icd-opencl-dev
 Run: 
 ```
 sudo apt install ocl-icd-opencl-dev ocl-icd-libopencl1 opencl-headers libssl-dev
+make
 ```
 
 ## OpenCL/CUDA
