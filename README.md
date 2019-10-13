@@ -1,5 +1,7 @@
 # GreenOnion
 
+GreenOnion is a tool used to hash a large number of PGP keys concurrently in order to find fingerprint matches in a large input list. This tool was used in my [MSc Dissertation](https://github.com/AidanFray/MSc_Dissertation) as a way to find near collisions.
+
 ## Installation
 
 Dependencies
